@@ -9,9 +9,7 @@
             }
         },
         "documentNumber": {
-            "string": {
-                "regexp": "[0-9]{11}" 
-            } 
+            "regexp": "[0-9]{11}" 
         }
     }
 }
