@@ -1,11 +1,12 @@
 {
-    "Client": {
+    "Person": {
         "_": {
             "items": 10
         },
         "fullname": {
-            "string": {
-
+            "loremWords": { 
+                "minLength": 2, 
+                "maxLength": 4 
             }
         },
         "documentNumber": {
