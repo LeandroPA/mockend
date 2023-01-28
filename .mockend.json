@@ -5,8 +5,8 @@
         },
         "fullname": {
             "loremSentences": { 
-                "minLength": 2, 
-                "maxLength": 4 
+                "minLength": 10, 
+                "maxLength": 30 
             }
         },
         "documentNumber": {
